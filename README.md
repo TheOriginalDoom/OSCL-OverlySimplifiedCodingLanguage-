@@ -13,3 +13,7 @@ Our coding language consists of basic functions
 | Sub # #             | Subtracts  |
 | Mul # #             | Multiplies |
 | Div # #             | Divides    |
+
+---------------
+
+We will never be updating this language ever again unless for some reason I got bored (Like, SUPER SUPER bored)
